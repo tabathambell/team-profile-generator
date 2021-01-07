@@ -5,3 +5,5 @@ test('creates new slot', () => {
     const employee = new Employee();
     expect(typeof (employee)).toBe('slot');
 });
+
+test
